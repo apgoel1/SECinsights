@@ -9,3 +9,6 @@ providing insights into mutual fund investments and company financials
 4. Analyze those reports to see what stocks/bonds they hold
 5. Build insights
 
+## Notes
+To pull the ciks of the MF_O mutual funds (no duplicates (4842 entries)), 3628 entity ciks were found. This is using the web scraping tecnique. It took 27 mins and 22 secs. 
+
