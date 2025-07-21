@@ -12,3 +12,4 @@ providing insights into mutual fund investments and company financials
 ## Notes
 To pull the ciks of the MF_O mutual funds (no duplicates (4842 entries)), 3628 entity ciks were found. This is using the web scraping tecnique. It took 27 mins and 22 secs. 
 
+Now to pull the ciks with the series ciks, it took 34 mins and 25 secs. Still 3628 entity ciks found. 
