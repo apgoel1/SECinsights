@@ -23,8 +23,8 @@ GPT is plenty capable of providing profound insights for financial information, 
 
 ### Next Steps
 Currently the model only reads one file (from a hardcoded CIK) and prints output. Next steps include:
-    Pulling the CIKs for multiple mutual funds from the CSV file (array for speed and ease)
-    Saving the output/insights to a file
-    Using multiple filings from a company over time to generate trends (this would require adding context to the AI)
-    Using the insights from multiple mutual funds to detect industry/sector/era trends
-    Incorporate macro data from other federal sources and media to complement insights
+<br>+ Pulling the CIKs for multiple mutual funds from the CSV file (array for speed and ease)
+<br>+ Saving the output/insights to a file
+<br>+ Using multiple filings from a company over time to generate trends (this would require adding context to the AI)
+<br>+ Using the insights from multiple mutual funds to detect industry/sector/era trends
+<br>+ Incorporate macro data from other federal sources and media to complement insights
